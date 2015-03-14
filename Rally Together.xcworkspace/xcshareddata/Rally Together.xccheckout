@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C47C41FC-4309-47C1-AD7E-86DD7F6B65B4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Rally Together</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FE21D2CA28BA18CB00DE669FCA9041070B3F4F0B</key>
+		<string>github.com:strangerloops/rally_frontend.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Rally Together.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FE21D2CA28BA18CB00DE669FCA9041070B3F4F0B</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:strangerloops/rally_frontend.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FE21D2CA28BA18CB00DE669FCA9041070B3F4F0B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FE21D2CA28BA18CB00DE669FCA9041070B3F4F0B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Rally%20Together</string>
+		</dict>
+	</array>
+</dict>
+</plist>
