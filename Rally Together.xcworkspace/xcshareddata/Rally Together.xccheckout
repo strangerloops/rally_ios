@@ -10,6 +10,8 @@
 	<string>Rally Together</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>DC51BEAC418B872C3F780784C5C8C723E32BF0C9</key>
+		<string>github.com:strangerloops/rally_ios.git</string>
 		<key>FE21D2CA28BA18CB00DE669FCA9041070B3F4F0B</key>
 		<string>github.com:strangerloops/rally_frontend.git</string>
 	</dict>
@@ -17,17 +19,27 @@
 	<string>Rally Together.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>FE21D2CA28BA18CB00DE669FCA9041070B3F4F0B</key>
+		<key>DC51BEAC418B872C3F780784C5C8C723E32BF0C9</key>
 		<string>..</string>
+		<key>FE21D2CA28BA18CB00DE669FCA9041070B3F4F0B</key>
+		<string>../../Rally%20Together</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>github.com:strangerloops/rally_frontend.git</string>
+	<string>github.com:strangerloops/rally_ios.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>FE21D2CA28BA18CB00DE669FCA9041070B3F4F0B</string>
+	<string>DC51BEAC418B872C3F780784C5C8C723E32BF0C9</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DC51BEAC418B872C3F780784C5C8C723E32BF0C9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>rally_frontend</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>

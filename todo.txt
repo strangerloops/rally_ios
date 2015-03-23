@@ -1,0 +1,23 @@
+Rally To Do:
+
+bugs:
+
+- sometimes takes more than 5 seconds for location to update
+- no blue banner when app is using location from background
+
+enhancements:
+
+- map view button that centers the map over the user's location (eg. crosshair button on google maps)
+- directions to markers
+- rather than use defaults to determine if a user's been created already, unconditionally hit the server with the phone's UDID & return the corresponding user if there is one / create & return a new one if there isn't
+- more dynamic colors for markers
+- hash/encrypt UDID before sending to DB
+- hit index_no_id when downloading all users so UDID's aren't downloaded
+- include colored marker image at left side of tags table view cells
+- retina assets for web view; mobile browsing of web view
+
+new features:
+
+- meta-tags: category tags for your tags so someone looking for eg. protests doesn't have to see other stuff
+- chat w. voting
+- twitter integration - post yr location/tag name, search twitter for tag name
