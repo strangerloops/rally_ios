@@ -4,9 +4,11 @@ bugs:
 
 - sometimes takes more than 5 seconds for location to update
 - no blue banner when app is using location from background
+- denying location services permission keeps the app stuck on launch screen - shld let user past the launch screen and reprompt for location access when the user tries adding/joining a tag
 
 enhancements:
 
+- 'walkthrough' of app features on first launch
 - map view button that centers the map over the user's location (eg. crosshair button on google maps)
 - directions to markers
 - rather than use defaults to determine if a user's been created already, unconditionally hit the server with the phone's UDID & return the corresponding user if there is one / create & return a new one if there isn't
